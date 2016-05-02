@@ -37,3 +37,10 @@ address{
   font-size:0.75em;
   font-style:italic;
 }
+
+body{
+    background-color: #fdf9cc;
+  background-image: ur1(IMG_2617.JPG);
+  background-repeat: repeat-x;
+}
+}
