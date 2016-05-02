@@ -29,6 +29,11 @@ p{
   text-align:center;
 }
 
+.greeting{
+  border-top: #;fbb9a 1px dottes;
+  text-align: center;
+}
+
 li{
   font-size:0.8em;
   color:#333333;
@@ -40,6 +45,6 @@ address{
 
 body{
     background-color: #fdf9cc;
-  background-image: ur1(../gh-pages/IMG_2617.JPG);
+  background-image: ur1(gh-pages/IMG_2617.JPG);
   background-repeat: repeat-x;
 }
